@@ -8,7 +8,6 @@ The code is self-explanatory and I also added documentation in the code. Togethe
 
 
 For more information about Microsoft's Compound Document visit these sites.
-[Wiki site](http://en.wikipedia.org/wiki/Compound_File_Binary_Format)
-[OpenOffice.org's Documentation of the Microsoft Compound Document File Format](http://sc.openoffice.org/compdocfileformat.pdf)
-[Windows Compound Binary File Format Specification](http://download.microsoft.com/download/0/B/E/0BE8BDD7-E5E8-422A-ABFD-4342ED7AD886/WindowsCompoundBinaryFileFormatSpecification.pdf)
-
+* [Wiki site](http://en.wikipedia.org/wiki/Compound_File_Binary_Format)
+* [OpenOffice.org's Documentation of the Microsoft Compound Document File Format](http://sc.openoffice.org/compdocfileformat.pdf)
+* [Windows Compound Binary File Format Specification](http://download.microsoft.com/download/0/B/E/0BE8BDD7-E5E8-422A-ABFD-4342ED7AD886/WindowsCompoundBinaryFileFormatSpecification.pdf)
